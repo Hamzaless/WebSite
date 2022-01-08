@@ -1,6 +1,8 @@
-# canakburu
+
+
+# Gerçek yapımıcısı can akburudur
 # Editlenmiştir
 Kişisel Blog
 
 
-# Gerçek yapımıcısı can akburudur
+
